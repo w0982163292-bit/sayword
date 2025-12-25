@@ -1,9 +1,9 @@
 const wordData = [
-  { word: "笔电（笔记型电脑）", meaning: "laptop computer", example: "我想买一台新的笔电。(I want to buy a new laptop.)" },
+  { word: "笔电", meaning: "laptop computer", example: "我想买一台新的笔电。(I want to buy a new laptop.)" },
 
   { word: "产品", meaning: "product", example: "店员介绍了很多新产品。(The clerk introduced many new products.)" },
 
-  { word: "平板（平板电脑）", meaning: "tablet", example: "现在很多上班族都用平板工作。(Many office workers use tablets for work.)" },
+  { word: "平板", meaning: "tablet", example: "现在很多上班族都用平板工作。(Many office workers use tablets for work.)" },
 
   { word: "差别", meaning: "difference", example: "笔电和平板有什么差别？(What’s the difference between a laptop and a tablet?)" },
 
@@ -65,4 +65,5 @@ const wordData = [
 
   { word: "保证书", meaning: "warranty", example: "记得带保证书回去。(Remember to take the warranty card with you.)" }
 ];
+
 
